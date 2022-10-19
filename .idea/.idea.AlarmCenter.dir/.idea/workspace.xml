@@ -33,7 +33,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Publish to folder.Publish AlarmCenter to folder">
+  <component name="RunManager" selected=".NET Launch Settings Profile.AlarmCenter">
     <configuration name="Publish AlarmCenter to folder" type="DotNetFolderPublish" factoryName="Publish to folder">
       <riderPublish runtime="Portable" target_folder="$PROJECT_DIR$/bin/net5.0/publish" target_framework="net5.0" uuid_high="5961603378101453989" uuid_low="6429931187685055014" />
       <method v="2" />
