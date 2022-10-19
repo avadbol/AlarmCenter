@@ -13,6 +13,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/AAB/source/repos/AlarmCenter/AlarmCenter/Pages/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -30,7 +33,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.AlarmCenter">
+  <component name="RunManager" selected="Publish to folder.Publish AlarmCenter to folder">
+    <configuration name="Publish AlarmCenter to folder" type="DotNetFolderPublish" factoryName="Publish to folder">
+      <riderPublish runtime="Portable" target_folder="$PROJECT_DIR$/bin/net5.0/publish" target_framework="net5.0" uuid_high="5961603378101453989" uuid_low="6429931187685055014" />
+      <method v="2" />
+    </configuration>
     <configuration name="AlarmCenter" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/AlarmCenter.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net5.0" />
@@ -71,14 +78,31 @@
       <option name="presentableId" value="Default" />
       <updated>1665756272732</updated>
       <workItem from="1665756272734" duration="2316000" />
+      <workItem from="1665770437427" duration="1319000" />
+      <workItem from="1666190295283" duration="648000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1665770457320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665770457320</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sadasd">
+      <created>1665770552379</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665770552380</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -93,5 +117,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="update" />
+    <MESSAGE value="sadasd" />
+    <option name="LAST_COMMIT_MESSAGE" value="sadasd" />
   </component>
 </project>
