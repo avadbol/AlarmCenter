@@ -5,16 +5,14 @@
     <projectFile profileName="AlarmCenter">AlarmCenter.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61b3191a-6b0c-4ef6-8826-d0d7323b5ed4" name="Changes" comment="">
+    <list default="true" id="61b3191a-6b0c-4ef6-8826-d0d7323b5ed4" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/wwwroot/js/merhaba.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AlarmCenter.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlarmCenter.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Users/AAB/source/repos/AlarmCenter/AlarmCenter/Pages/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -80,6 +78,7 @@
       <workItem from="1665756272734" duration="2316000" />
       <workItem from="1665770437427" duration="1319000" />
       <workItem from="1666190295283" duration="648000" />
+      <workItem from="1666207894396" duration="699000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1665770457320</created>
@@ -95,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665770552380</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1666207932493</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666207932494</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1666209373032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666209373032</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,8 +130,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="update" />
     <MESSAGE value="sadasd" />
-    <option name="LAST_COMMIT_MESSAGE" value="sadasd" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
